@@ -1,0 +1,17 @@
+{
+  "name": "appbuilder-ios-remote",
+  "version": "1.0.0",
+  "description": "Empty",
+  "main": "./lib/appbuilder-ios-remote.js",
+  "bin":  { 
+    "appbuilderremote" : "./lib/appbuilder-ios-remote.js" 
+  },
+  "dependencies": {
+   "nopt": "1.0.x",
+   "express": "x",
+   "minimatch" : "x",
+   "ios-sim" : "x"
+  },
+  "author": "Telerik",
+  "license": "BSD-2-Clause"
+}
