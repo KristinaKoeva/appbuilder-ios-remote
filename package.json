@@ -10,7 +10,9 @@
    "nopt": "1.0.x",
    "express": "x",
    "minimatch" : "x",
-   "ios-sim" : "x"
+   "rimraf" : "x",
+   "ncp" : "x",
+   "byline" : "x"
   },
   "author": "Telerik",
   "license": "BSD-2-Clause"
